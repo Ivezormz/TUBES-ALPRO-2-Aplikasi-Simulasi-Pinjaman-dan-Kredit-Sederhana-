@@ -1,1 +1,1 @@
-# TUBES-ALPRO-2-Aplikasi-Simulasi-Pinjaman-dan-Kredit-Sederhana-
+APLIKASI SIMULASI PINJAMAN DAN KREDIT SEDERHANA
